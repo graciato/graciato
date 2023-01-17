@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @graciato
+- 👋 Hi, I’m @gracemuange
 - 👀 I’m interested in computer science 
 - 🌱 I’m currently learning web programming with python and JavaScript 
 - 💞️ I’m looking to collaborate on web app development 
